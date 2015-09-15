@@ -1,0 +1,19 @@
+.highcharts-container{
+
+}
+
+#bezoekers-graph{
+    overflow: hidden;
+}
+
+.paginate_button:hover{
+    padding: 0 !important;
+    border: none !important;
+    background: none !important;
+}
+
+.paginate_button{
+    padding: 0 !important;
+    border: none !important;
+    background: none !important;
+}

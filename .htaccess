@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /dashboard-hotspot/
+RewriteCond $1 !^(index\.php|images|robots\.txt|assets)
+RewriteRule ^(.*)$ /dashboard-hotspot/index.php/$1 [L]
